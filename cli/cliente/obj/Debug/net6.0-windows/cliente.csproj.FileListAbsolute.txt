@@ -1,0 +1,17 @@
+C:\Users\wuini\source\repos\cliente\cliente\bin\Debug\net6.0-windows\cliente.exe
+C:\Users\wuini\source\repos\cliente\cliente\bin\Debug\net6.0-windows\cliente.deps.json
+C:\Users\wuini\source\repos\cliente\cliente\bin\Debug\net6.0-windows\cliente.runtimeconfig.json
+C:\Users\wuini\source\repos\cliente\cliente\bin\Debug\net6.0-windows\cliente.dll
+C:\Users\wuini\source\repos\cliente\cliente\bin\Debug\net6.0-windows\cliente.pdb
+C:\Users\wuini\source\repos\cliente\cliente\obj\Debug\net6.0-windows\cliente.csproj.AssemblyReference.cache
+C:\Users\wuini\source\repos\cliente\cliente\obj\Debug\net6.0-windows\cliente.Form1.resources
+C:\Users\wuini\source\repos\cliente\cliente\obj\Debug\net6.0-windows\cliente.csproj.GenerateResource.cache
+C:\Users\wuini\source\repos\cliente\cliente\obj\Debug\net6.0-windows\cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wuini\source\repos\cliente\cliente\obj\Debug\net6.0-windows\cliente.AssemblyInfoInputs.cache
+C:\Users\wuini\source\repos\cliente\cliente\obj\Debug\net6.0-windows\cliente.AssemblyInfo.cs
+C:\Users\wuini\source\repos\cliente\cliente\obj\Debug\net6.0-windows\cliente.csproj.CoreCompileInputs.cache
+C:\Users\wuini\source\repos\cliente\cliente\obj\Debug\net6.0-windows\cliente.dll
+C:\Users\wuini\source\repos\cliente\cliente\obj\Debug\net6.0-windows\refint\cliente.dll
+C:\Users\wuini\source\repos\cliente\cliente\obj\Debug\net6.0-windows\cliente.pdb
+C:\Users\wuini\source\repos\cliente\cliente\obj\Debug\net6.0-windows\cliente.genruntimeconfig.cache
+C:\Users\wuini\source\repos\cliente\cliente\obj\Debug\net6.0-windows\ref\cliente.dll
